@@ -1,0 +1,15 @@
+{
+  "name": "img-to-grid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "owc-dev-server -o"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lit-element": "^2.0.1",
+    "owc-dev-server": "^0.2.0"
+  }
+}
